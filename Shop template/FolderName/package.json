@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "src/mod.js",
     "license": "MIT",
-    "author": "You (Built off Saria by DJ)",
+    "author": "You Baka",
     "akiVersion": "3.7.x",
   "scripts": {
       "setup": "npm i",
