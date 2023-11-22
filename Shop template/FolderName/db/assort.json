@@ -1,0 +1,52 @@
+{
+	"items": [
+{
+    "_id": "moemoekyun",
+    "_tpl": "58d2912286f7744e27117493",
+    "parentId": "hideout",
+    "slotId": "hideout",
+    "upd": {
+        "StackObjectsCount": 999999999,
+        "UnlimitedCount": true
+    }
+},	
+{
+    "_id": "moemoestock",
+    "_tpl": "56eabf3bd2720b75698b4569",
+    "parentId": "hideout",
+    "slotId": "hideout",
+    "upd": {
+        "StackObjectsCount": 999999999,
+        "UnlimitedCount": true
+    }
+}
+
+	
+
+	],
+	"barter_scheme": {
+		"moemoekyun": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 69999
+                }
+            ]
+        ],
+        "moemoestock": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 44999
+                }
+			]
+		]	
+
+		
+
+	},
+	"loyal_level_items": {	
+		"moemoekyun": 1,	
+        "moemoestock": 1
+	}
+}
