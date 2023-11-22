@@ -1,7 +1,7 @@
 {
 	"items": [
 {
-    "_id": "moemoekyun",
+    "_id": "moebuttpad",
     "_tpl": "58d2912286f7744e27117493",
     "parentId": "hideout",
     "slotId": "hideout",
@@ -11,7 +11,7 @@
     }
 },	
 {
-    "_id": "moemoestock",
+    "_id": "moestock",
     "_tpl": "56eabf3bd2720b75698b4569",
     "parentId": "hideout",
     "slotId": "hideout",
@@ -25,7 +25,7 @@
 
 	],
 	"barter_scheme": {
-		"moemoekyun": [
+		"moebuttpad": [
             [
                 {
                     "_tpl": "5449016a4bdc2d6f028b456f",
@@ -33,7 +33,7 @@
                 }
             ]
         ],
-        "moemoestock": [
+        	"moestock": [
             [
                 {
                     "_tpl": "5449016a4bdc2d6f028b456f",
@@ -46,7 +46,7 @@
 
 	},
 	"loyal_level_items": {	
-		"moemoekyun": 1,	
-        "moemoestock": 1
+		"moebuttpad": 1,	
+        	"moestock": 1
 	}
 }
