@@ -20,10 +20,8 @@
         "UnlimitedCount": true
     }
 }
-
+],
 	
-
-	],
 	"barter_scheme": {
 		"moebuttpad": [
             [
@@ -39,12 +37,10 @@
                     "_tpl": "5449016a4bdc2d6f028b456f",
                     "count": 44999
                 }
-			]
-		]	
-
-		
-
+	    ]
+	]			
 	},
+	
 	"loyal_level_items": {	
 		"moebuttpad": 1,	
         	"moestock": 1
